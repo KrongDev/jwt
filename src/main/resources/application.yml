@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: jwt
+  config:
+    activate:
+      on-profile: default
+server:
+  port: 8080
